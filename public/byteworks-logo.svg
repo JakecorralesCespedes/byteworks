@@ -1,0 +1,26 @@
+<svg width="940" height="220" viewBox="0 0 940 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Logo ByteWorks CR</title>
+  <desc id="desc">Marca textual ByteWorks CR con icono circular tecnológico.</desc>
+  <defs>
+    <linearGradient id="bwBlue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#78E5FF" />
+      <stop offset="100%" stop-color="#009DFF" />
+    </linearGradient>
+    <linearGradient id="bwOrange" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF9F3F" />
+      <stop offset="100%" stop-color="#FF5A00" />
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(12 18)">
+    <circle cx="86" cy="92" r="74" stroke="url(#bwBlue)" stroke-width="8" />
+    <path d="M24 118L24 66M40 126L40 58M56 134L56 50M72 120L72 64M88 138L88 46M104 118L104 64M120 130L120 54M136 114L136 70" stroke="url(#bwBlue)" stroke-width="8" stroke-linecap="round" />
+    <circle cx="14" cy="58" r="8" fill="url(#bwBlue)" />
+    <circle cx="14" cy="126" r="8" fill="url(#bwBlue)" />
+    <circle cx="158" cy="92" r="8" fill="url(#bwBlue)" />
+    <path d="M14 58V44M14 126V140M158 92H174" stroke="url(#bwBlue)" stroke-width="6" stroke-linecap="round" />
+  </g>
+
+  <text x="214" y="136" font-family="Segoe UI, Arial, sans-serif" font-size="94" font-weight="800" fill="url(#bwBlue)">ByteWorks</text>
+  <text x="792" y="136" font-family="Segoe UI, Arial, sans-serif" font-size="94" font-weight="800" fill="url(#bwOrange)">CR</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg width="820" height="620" viewBox="0 0 820 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ilustracion de tecnologia y audio</title>
+  <desc id="desc">Visual abstracto de dashboard tecnico con barras de audio y nodos de red.</desc>
+  <defs>
+    <linearGradient id="a" x1="84" y1="70" x2="698" y2="538" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" />
+      <stop offset="1" stop-color="#22D3EE" />
+    </linearGradient>
+    <linearGradient id="b" x1="142" y1="130" x2="676" y2="476" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A" />
+      <stop offset="1" stop-color="#1E293B" />
+    </linearGradient>
+  </defs>
+  <rect x="70" y="60" width="680" height="500" rx="40" fill="url(#b)" stroke="url(#a)" stroke-opacity="0.65" stroke-width="4"/>
+  <rect x="124" y="126" width="572" height="54" rx="16" fill="#0B1223" stroke="#334155"/>
+  <circle cx="160" cy="153" r="8" fill="#22D3EE"/>
+  <circle cx="191" cy="153" r="8" fill="#67E8F9"/>
+  <circle cx="222" cy="153" r="8" fill="#38BDF8"/>
+  <path d="M174 430L174 276M220 430L220 318M266 430L266 255M312 430L312 344M358 430L358 286M404 430L404 242M450 430L450 326M496 430L496 281M542 430L542 307M588 430L588 262" stroke="url(#a)" stroke-width="14" stroke-linecap="round"/>
+  <path d="M126 488H696" stroke="#334155" stroke-width="2"/>
+  <circle cx="640" cy="318" r="58" fill="#0B1223" stroke="#22D3EE" stroke-width="3"/>
+  <path d="M615 320C615 300 630 286 650 286C670 286 685 300 685 320C685 340 670 354 650 354C630 354 615 340 615 320Z" stroke="#67E8F9" stroke-width="3"/>
+  <path d="M607 382C620 368 636 360 654 360C672 360 688 368 701 382" stroke="#38BDF8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M88 90L58 52M731 92L765 50M88 532L56 564M731 530L766 565" stroke="#22D3EE" stroke-opacity="0.5" stroke-width="3" stroke-linecap="round"/>
+</svg>

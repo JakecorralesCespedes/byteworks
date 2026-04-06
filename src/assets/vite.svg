@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+	<title id="title">ByteWorks CR favicon</title>
+	<desc id="desc">Ícono tecnológico azul y cian para ByteWorks CR.</desc>
+	<defs>
+		<linearGradient id="g" x1="8" y1="10" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+			<stop offset="0%" stop-color="#38BDF8" />
+			<stop offset="100%" stop-color="#22D3EE" />
+		</linearGradient>
+		<linearGradient id="g2" x1="18" y1="18" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+			<stop offset="0%" stop-color="#0F172A" />
+			<stop offset="100%" stop-color="#1E293B" />
+		</linearGradient>
+	</defs>
+	<rect x="4" y="4" width="56" height="56" rx="18" fill="url(#g2)" stroke="url(#g)" stroke-width="2" />
+	<circle cx="18" cy="18" r="3" fill="url(#g)" />
+	<circle cx="46" cy="18" r="3" fill="url(#g)" />
+	<circle cx="18" cy="46" r="3" fill="url(#g)" />
+	<circle cx="46" cy="46" r="3" fill="url(#g)" />
+	<path d="M20 42V30M28 42V22M36 42V18M44 42V26" stroke="url(#g)" stroke-width="4" stroke-linecap="round" />
+	<path d="M24 22C28 18 36 18 40 22" stroke="#67E8F9" stroke-width="3" stroke-linecap="round" />
+</svg>
